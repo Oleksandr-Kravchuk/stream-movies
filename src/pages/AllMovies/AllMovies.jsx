@@ -39,7 +39,7 @@ const AllMovies = () => {
 
   return (
     <div>
-      <div className="d-flex justify-content-between sticky-top">
+      <div className="d-flex justify-content-between sticky-top mb-4">
         <Filter 
           filter={filter}
           setFilter={setFilter}
