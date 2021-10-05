@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stream-movies/static/css/main.488357f5.chunk.css",
+    "main.js": "/stream-movies/static/js/main.8103d821.chunk.js",
+    "main.js.map": "/stream-movies/static/js/main.8103d821.chunk.js.map",
+    "runtime-main.js": "/stream-movies/static/js/runtime-main.4a933858.js",
+    "runtime-main.js.map": "/stream-movies/static/js/runtime-main.4a933858.js.map",
+    "static/css/2.f2512455.chunk.css": "/stream-movies/static/css/2.f2512455.chunk.css",
+    "static/js/2.d807fb5b.chunk.js": "/stream-movies/static/js/2.d807fb5b.chunk.js",
+    "static/js/2.d807fb5b.chunk.js.map": "/stream-movies/static/js/2.d807fb5b.chunk.js.map",
+    "index.html": "/stream-movies/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/stream-movies/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.488357f5.chunk.css.map": "/stream-movies/static/css/main.488357f5.chunk.css.map",
+    "static/js/2.d807fb5b.chunk.js.LICENSE.txt": "/stream-movies/static/js/2.d807fb5b.chunk.js.LICENSE.txt",
+    "static/media/Filter.module.scss": "/stream-movies/static/media/search.b1f781b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a933858.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.d807fb5b.chunk.js",
+    "static/css/main.488357f5.chunk.css",
+    "static/js/main.8103d821.chunk.js"
+  ]
+}
