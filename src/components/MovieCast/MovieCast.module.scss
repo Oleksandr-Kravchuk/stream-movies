@@ -1,0 +1,43 @@
+.cast {
+  h3 {
+    margin-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-style: italic;
+    color: rgb(34, 37, 46);
+  }
+
+  ul {
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+}
+
+.card {
+  width: 50%;
+  flex-shrink: 0;
+  display: flex;
+
+  img {
+    height: 150px;
+    width: auto;
+  }
+}
+
+.body {
+  margin-left: 20px;
+}
+
+.role {
+  font-weight: 700;
+  font-size: 20px;
+
+  span {
+    font-style: italic;
+    font-weight: normal;
+  }
+}
