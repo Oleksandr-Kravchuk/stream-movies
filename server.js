@@ -33,7 +33,7 @@ app.use(express.json());
 app.use(morgan('tiny'));
 app.options('*', cors(optionsCors));
 
-app.use('/api/auth', cors(), authRouter);
+app.use('https://oleksandr-kravchuk.github.io/api/auth/register/api/auth', cors(), authRouter);
 app.use(asyncWrapper(authMiddleware));
 app.use('/api/users', cors(), userRouter);
 
