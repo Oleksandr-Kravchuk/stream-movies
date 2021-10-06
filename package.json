@@ -1,5 +1,5 @@
 {
-  "homepage": "https://oleksandr-kravchuk.github.io/stream-movies",
+  "homepage": "https://oleksandr-kravchuk.github.io/stream-movies/",
   "name": "stream-movies",
   "version": "0.1.0",
   "private": true,
@@ -30,7 +30,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts start && node server.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
